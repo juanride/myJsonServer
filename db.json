@@ -7,7 +7,7 @@
             "address": {
                 "address": "Carrera 9C #121-48",
                 "city": "Bogotá DC",
-                "zip-code": "110111"
+                "zip_code": "110111"
             },
             "phone": {
                 "number": "304581244",
@@ -22,7 +22,7 @@
             "address": {
                 "address": "Carrera 9C #121-48",
                 "city": "Bogotá DC",
-                "zip-code": "110111"
+                "zip_code": "110111"
             },
             "phone": {
                 "number": "3208908460",
