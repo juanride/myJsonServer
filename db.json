@@ -4,8 +4,8 @@
             "mail": "juanride@unisabana.edu.co",
             "password": "12345",
             "name": "Juan Felipe Rivadeneira Delgado",
-            "adress": {
-                "adress": "Carrera 9C #121-48",
+            "address": {
+                "address": "Carrera 9C #121-48",
                 "city": "Bogotá DC",
                 "zip-code": "110111"
             },
@@ -19,8 +19,8 @@
             "mail": "bryanalmo@unisabana.edu.co",
             "password": "54321",
             "name": "Bryan Felipe Alvarez Monroy",
-            "adress": {
-                "adress": "Carrera 9C #121-48",
+            "address": {
+                "address": "Carrera 9C #121-48",
                 "city": "Bogotá DC",
                 "zip-code": "110111"
             },
