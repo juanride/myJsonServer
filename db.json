@@ -13,7 +13,8 @@
                 "number": "304581244",
                 "type": "Celular"
             },
-            "photo": "https://i.ibb.co/dfkRHTn/IMG-1258.jpg"
+            "photo": "https://i.ibb.co/dfkRHTn/IMG-1258.jpg",
+            "services": []
         },
         {
             "mail": "bryanalmo@unisabana.edu.co",
@@ -28,7 +29,8 @@
                 "number": "3208908460",
                 "type": "Celular"
             },
-            "photo": "https://i.ibb.co/5nyYRkQ/IMG-1257.jpg"
+            "photo": "https://i.ibb.co/5nyYRkQ/IMG-1257.jpg",
+            "services": []
         }
     ]
 }
