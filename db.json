@@ -14,7 +14,7 @@
                 "type": "Celular"
             },
             "photo": "https://i.ibb.co/dfkRHTn/IMG-1258.jpg",
-            "services": []
+            "employees": []
         },
         {
             "mail": "bryanalmo@unisabana.edu.co",
@@ -30,7 +30,7 @@
                 "type": "Celular"
             },
             "photo": "https://i.ibb.co/5nyYRkQ/IMG-1257.jpg",
-            "services": []
+            "employees": []
         }
     ]
 }
