@@ -31,6 +31,22 @@
             },
             "photo": "https://i.ibb.co/5nyYRkQ/IMG-1257.jpg",
             "employees": []
+        },
+        {
+            "mail": "mariaavni@unisabana.edu.co",
+            "password": "1147",
+            "name": "Maria Nathalia Avila Nino",
+            "address": {
+                "address": "221B Baker Street",
+                "city": "London",
+                "zip_code": "WC2N 5DU"
+            },
+            "phone": {
+                "number": "3192993829",
+                "type": "Celular"
+            },
+            "photo": "https://i.ibb.co/5nyYRkQ/IMG-1257.jpg",
+            "employees": []
         }
     ]
 }
